@@ -66,19 +66,19 @@
                         </div>
                         <ul class="list-area">
                             <li>
-                                <a href="interior.php">
+                                <a href="products.php?data=interior">
                                     <i class="fa-solid fa-chevrons-right"></i>
                                     Interior
                                 </a>
                             </li>
                             <li>
-                                <a href="tiles.php">
+                                <a href="products.php?data=tiles">
                                     <i class="fa-solid fa-chevrons-right"></i>
                                     Tiles
                                 </a>
                             </li>
                             <li>
-                                <a href="granite.php">
+                                <a href="products.php?data=granite">
                                     <i class="fa-solid fa-chevrons-right"></i>
                                     Granite
                                 </a>

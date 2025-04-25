@@ -179,9 +179,9 @@
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
                                             <ul class="submenu">
-                                                <li><a href="interior.php">Interior</a></li>
-                                                <li><a href="tiles.php">Tiles</a></li>
-                                                <li><a href="granite.php">Granite</a></li>
+                                                <li><a href="products.php?data=interior">Interior</a></li>
+                                                <li><a href="products.php?data=tiles">Tiles</a></li>
+                                                <li><a href="products.php?data=granite">Granite</a></li>
                                             </ul>
                                         </li>
                                         <li>
@@ -198,7 +198,7 @@
                     <div class="header-right d-flex justify-content-end align-items-center">
                         <div class="header-button">
                             <div class="btn-wrapper">
-                                <a href="contact.php"> <span class="theme-btn"> GET A QUOTE </span> </a>
+                                <a href="tel:+919952442369"> <span class="theme-btn"> GET A QUOTE </span> </a>
                             </div>
                         </div>
                         <div class="header__hamburger d-block d-xl-none my-auto">
