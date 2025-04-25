@@ -48,9 +48,9 @@
 
                                     <img class="thumb1 img-custom-anim-left wow fadeInUp" data-wow-delay=".3s" src="assets/images/about/aboutThumb1_1.jpg" alt="thumb" />
                                     <img class="thumb2 img-custom-anim-top wow fadeInUp" data-wow-delay=".7s" src="assets/images/about/aboutThumb1_2.jpg" alt="thumb" />
-                                    <div class="video-wrap ripple-effect rounded-0">
+                                    <!-- <div class="video-wrap ripple-effect rounded-0">
                                         <a href="https://www.youtube.com/watch?v=f2Gzr8sAGB8" class="play-btn popup-video"><img class="playerImg" src="assets/images/icon/playerIcon1_1.svg" alt="icon" /></a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <div class="col-xl-6">
@@ -59,7 +59,7 @@
                                         <div class="subtitle text-start wow fadeInUp" data-wow-delay=".5s"><img class="me-1" src="assets/images/shape/titleShape1_1.png" alt="icon" /> ABOUT COMPANY</div>
                                         <h2 class="text-start mt-15 wow fadeInUp" data-wow-delay=".3s">Marble Decor</h2>
                                         <p class="desc wow fadeInUp" data-wow-delay=".7s">
-                                            Marble Decor is one of the most reputed wholesale & retail dealers of premium flooring products in South India. We are one of the very few dealers in Coimbatore who deals with the widest range of super premium flooring products like Imported Marble, Imported Granite, Indian Marble, Indian Granite, Sandstone, Quartz, Natural Stone, Premium Thin Tiles, Engineered Marble and etc.,
+                                            Marble Decor is one of the most reputed wholesale & retail dealers of premium flooring products in South India. We are one of the very few dealers in Coimbatore who deals with the widest range of super premium flooring products like Imported Marble, Imported Granite, Indian Marble, Indian Granite, Sandstone, Quartz, Natural Stone, Premium Thin Tiless, Engineered Marble and etc.,
                                             <br><br>We deal with the Latest and Best Quality Imported Marbles in Coimbatore. We have established ourselves as the leading Wholesaler and Retailer of wide range of Exquisite, Exotic and Exclusive Imported Marble in Coimbatore as well as the whole of South India.
                                         </p><br>
                                         <h4><b>Vignesh Kumar - Proprietor</b></h4>
@@ -84,192 +84,32 @@
             </div>
         </section>
 
-        <!-- Company History Section    S T A R T -->
-        <div class="history-section section-padding fix">
-            <div class="container">
-                <div class="history-wrapper style1">
-                    <h2 class="history-title">Company History</h2>
-                    <div class="row gy-5 gx-60">
-                        <div class="col-xl-6">
-                            <div class="history-thumb">
-                                <img src="assets/images/history/history1_1.jpg" alt="thumb" />
-                            </div>
-                        </div>
-                        <div class="col-xl-6">
-                            <div class="history-content">
-                                <h2>MEGA LAUNCHING ON 16TH MAY 2024</h2>
-                                <p class="text">
-                                    On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the
-                                    pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty throughOn the other hand, we denounce with righteous indignation and dislike men who are so beguiled
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Testimonial Section    S T A R T -->
-        <div class="testimonial-section section-padding pt-0">
-            <div class="testimonial-container-wrapper style1">
-                <div class="container">
-                    <div class="row d-flex align-items-end mt-70 mb-60">
-                        <div class="col-xl-6">
-                            <div class="section-title text-start mxw-530">
-                                <div class="subtitle text-start wow fadeInUp" data-wow-delay=".5s"><img class="me-1" src="assets/images/shape/titleShape1_1.png" alt="icon" /> TESTIMONIAL</div>
-                                <h2 class="text-start mt-15 wow fadeInUp" data-wow-delay=".3s">What People Say About Services</h2>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 d-flex justify-content-start justify-content-xl-end mt-4 mt-xl-0">
-                            <div class="slider-arrow-btn text-end wow fadeInUp" data-wow-delay=".9s">
-                                <button data-slider-prev="#testimonialSliderOne" class="slider-arrow style1"><i class="fa-solid fa-arrow-left-long"></i></button>
-                                <button data-slider-next="#testimonialSliderOne" class="slider-arrow style1 slider-next"><i class="fa-solid fa-arrow-right-long"></i></button>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="slider-area testimonialSliderOne fix text-center">
-                        <div
-                            class="swiper gt-slider"
-                            id="testimonialSliderOne"
-                            data-slider-options='{"loop": true,"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":1,"centeredSlides":true},"768":{"slidesPerView":1},"992":{"slidesPerView":2},"1200":{"slidesPerView":2}}}'
-                        >
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="testimonial-card-items style1 wow fadeInUp" data-wow-delay=".5s" data-bg-src="assets/images/bg/testimonialBg1_1.png">
-                                        <div class="shape"><img src="assets/images/shape/testimonialCardShape1_1.png" alt="shape" /></div>
-
-                                        <div class="profile-meta">
-                                            <div class="thumb">
-                                                <img src="assets/images/testimonial/testimonialProfile1_1.png" alt="thumb" />
-                                            </div>
-                                            <div class="content">
-                                                <h6>Guy Hawkins</h6>
-                                                <p>UI/UX Designer</p>
-                                            </div>
-                                        </div>
-                                        <div class="body">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by lorem injected humour, or randomised words which</p>
-                                            <ul class="star-wrapper style1">
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-card-items style1 wow fadeInUp" data-wow-delay=".7s" data-bg-src="assets/images/bg/testimonialBg1_1.png">
-                                        <div class="shape"><img src="assets/images/shape/testimonialCardShape1_1.png" alt="shape" /></div>
-
-                                        <div class="profile-meta">
-                                            <div class="thumb">
-                                                <img src="assets/images/testimonial/testimonialProfile1_2.png" alt="thumb" />
-                                            </div>
-                                            <div class="content">
-                                                <h6>Jacob Jones</h6>
-                                                <p>UI/UX Designer</p>
-                                            </div>
-                                        </div>
-                                        <div class="body">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by lorem injected humour, or randomised words which</p>
-                                            <ul class="star-wrapper style1">
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-card-items style1" data-bg-src="assets/images/bg/testimonialBg1_1.png">
-                                        <div class="shape"><img src="assets/images/shape/testimonialCardShape1_1.png" alt="shape" /></div>
-
-                                        <div class="profile-meta">
-                                            <div class="thumb">
-                                                <img src="assets/images/testimonial/testimonialProfile1_1.png" alt="thumb" />
-                                            </div>
-                                            <div class="content">
-                                                <h6>Guy Hawkins</h6>
-                                                <p>UI/UX Designer</p>
-                                            </div>
-                                        </div>
-                                        <div class="body">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by lorem injected humour, or randomised words which</p>
-                                            <ul class="star-wrapper style1">
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-card-items style1" data-bg-src="assets/images/bg/testimonialBg1_1.png">
-                                        <div class="shape"><img src="assets/images/shape/testimonialCardShape1_1.png" alt="shape" /></div>
-
-                                        <div class="profile-meta">
-                                            <div class="thumb">
-                                                <img src="assets/images/testimonial/testimonialProfile1_1.png" alt="thumb" />
-                                            </div>
-                                            <div class="content">
-                                                <h6>Jacob Jones</h6>
-                                                <p>UI/UX Designer</p>
-                                            </div>
-                                        </div>
-                                        <div class="body">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by lorem injected humour, or randomised words which</p>
-                                            <ul class="star-wrapper style1">
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                                <li><img src="assets/images/icon/starIcon.svg" alt="icon" /></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="slider-pagination"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <!-- Facts Section    S T A R T -->
         <section class="facts-section section-padding pb-0 fix bg-theme2">
             <div class="container">
                 <div class="facts-wrapper style1">
-                    <div class="facts-title">Fact & Figures</div>
+                    <div class="facts-title">Our Achievements</div>
                     <div class="row">
                         <div class="facts-box-wrapper style1">
                             <div class="facts-box">
-                                <h3><span class="counter-number">1000</span> <span>+</span></h3>
-                                <p class="text">Saving Water by Recycling</p>
+                                <h3><span class="counter-number">2007</span> <span>+</span></h3>
+                                <p class="text">Since</p>
                             </div>
                             <div class="facts-box">
-                                <h3><span class="counter-number">12</span> <span>+</span></h3>
-                                <p class="text">Product Categories</p>
+                                <h3><span class="counter-number">80</span> <span>+</span></h3>
+                                <p class="text">Labors</p>
                             </div>
                             <div class="facts-box">
-                                <h3><span class="counter-number">6</span> <span>+</span></h3>
-                                <p class="text">Exclusive Display Centers</p>
+                                <h3><span class="counter-number">18</span> <span>+</span></h3>
+                                <p class="text">Year of Experience</p>
                             </div>
                             <div class="facts-box">
-                                <h3><span class="counter-number">2000</span> <span>+</span></h3>
+                                <h3><span class="counter-number">4.8</span> <span>+</span></h3>
+                                <p class="text">Star Rating</p>
+                            </div>
+                            <div class="facts-box">
+                                <h3><span class="counter-number">500</span> <span>+</span></h3>
                                 <p class="text">Project Completion</p>
-                            </div>
-                            <div class="facts-box">
-                                <h3><span class="counter-number">160</span> <span>+</span></h3>
-                                <p class="text">Dealers</p>
                             </div>
                         </div>
                     </div>
@@ -287,10 +127,9 @@
                                 <div class="skills-content">
                                     <div class="section-title text-start mt-70">
                                         <div class="subtitle text-start wow fadeInUp" data-wow-delay=".5s"><img class="me-1" src="assets/images/shape/titleShape1_1.png" alt="icon" /> EXPERTISE</div>
-                                        <h2 class="text-start mt-15 wow fadeInUp" data-wow-delay=".3s">Skilled Flooring Installers for your House</h2>
+                                        <h2 class="text-start mt-15 wow fadeInUp" data-wow-delay=".3s">Marble Decor</h2>
                                         <p class="desc">
-                                            There are many variations of passages of Lorem Ipsum available,lore xyz there isn't anything but the majority have suffered alteration in some form,lor by ipsu injected humour, or randomised words
-                                            which don't look even slightly
+                                        Established in the year 2007 at Coimbatore, Tamil Nadu, We “Marble Decor” are a Proprietorship based firm, engaged as the foremost Wholesale Trader of Interior, Tiles, Granite, etc.
                                         </p>
                                     </div>
                                     <div class="checklist-wrapper style1">
@@ -309,7 +148,7 @@
                                                         </clipPath>
                                                     </defs>
                                                 </svg>
-                                                More Expensive
+                                                Higher Investment
                                             </li>
                                             <li>
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 18 16" fill="none">
@@ -325,7 +164,7 @@
                                                         </clipPath>
                                                     </defs>
                                                 </svg>
-                                                Heat-Resistant
+                                                Resistant to High Temperatures
                                             </li>
                                         </ul>
                                         <ul class="checklist style2">
@@ -343,7 +182,7 @@
                                                         </clipPath>
                                                     </defs>
                                                 </svg>
-                                                Less Maintenance
+                                                Requires Minimal Upkeep
                                             </li>
                                             <li>
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 18 16" fill="none">
@@ -359,7 +198,7 @@
                                                         </clipPath>
                                                     </defs>
                                                 </svg>
-                                                Elegant Vein Patterns
+                                                Stylish and Natural Vein Designs
                                             </li>
                                         </ul>
                                     </div>
@@ -371,7 +210,7 @@
                                     <div class="thumb2"><img src="assets/images/skills/skillsThumb2_2.jpg" alt="thumb" /></div>
 
                                     <div class="counter-box style2">
-                                        <div class="counter"><span class="counter-number"> 25 </span> <span>+</span></div>
+                                        <div class="counter"><span class="counter-number"> 18 </span> <span>+</span></div>
                                         <h6>Years Of Experience</h6>
                                     </div>
                                 </div>
@@ -391,101 +230,29 @@
                         <div class="col-xl-6">
                             <div class="values-box style1 wow fadeInUp" data-wow-delay=".3s">
                                 <div class="icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
-                                        <path
-                                            opacity="0.932"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M12.158 1.70896C17.0571 1.30262 20.9146 3.09299 23.7303 7.08005C25.5764 10.058 26.081 13.248 25.244 16.6504C25.2928 16.6829 25.3416 16.7155 25.3904 16.748C25.8508 16.5674 26.3228 16.4371 26.8065 16.3574C26.7902 15.4129 26.8065 14.4688 26.8553 13.5254C26.8918 13.4359 26.9406 13.3545 27.0018 13.2812C27.371 13.1028 27.7616 13.0052 28.1736 12.9883C30.1057 12.7521 32.0262 12.8172 33.9354 13.1836C34.1294 13.3124 34.2434 13.4914 34.2772 13.7207C34.326 14.599 34.3422 15.4779 34.326 16.3574C35.5989 16.6441 36.7871 17.1324 37.8904 17.8222C38.5282 17.1518 39.1955 16.5171 39.8924 15.9179C40.0877 15.8528 40.283 15.8528 40.4783 15.9179C42.3133 17.1344 43.8596 18.6481 45.117 20.459C45.1821 20.7194 45.1821 20.9798 45.117 21.2402C44.5327 21.9059 43.9306 22.557 43.3104 23.1933C43.9181 24.311 44.39 25.4829 44.7264 26.709C45.6466 26.789 46.5743 26.8379 47.5096 26.8554C47.7212 26.9368 47.8677 27.0833 47.949 27.2949C48.2745 29.4433 48.2745 31.5918 47.949 33.7402C47.826 34.0261 47.6144 34.2052 47.3143 34.2773C46.4679 34.3098 45.6216 34.3425 44.7752 34.375C44.421 35.5995 43.9327 36.7714 43.3104 37.8906C43.9113 38.5568 44.5135 39.2241 45.117 39.8926C45.1821 40.1204 45.1821 40.3483 45.117 40.5761C43.8638 42.3503 42.3501 43.8639 40.576 45.1172C40.2699 45.1943 39.977 45.1618 39.6971 45.0195C39.1232 44.4129 38.521 43.8432 37.8904 43.3105C36.7819 43.897 35.6264 44.369 34.4236 44.7265C34.3437 45.6141 34.2948 46.5094 34.2772 47.4121C34.1632 47.6562 33.9842 47.8352 33.74 47.9492C31.5916 48.2747 29.4432 48.2747 27.2947 47.9492C27.0831 47.8678 26.9366 47.7214 26.8553 47.5097C26.8377 46.5745 26.7889 45.6468 26.7088 44.7265C25.4827 44.3902 24.3108 43.9182 23.1932 43.3105C22.5568 43.9307 21.9058 44.5329 21.24 45.1172C20.9796 45.1823 20.7192 45.1823 20.4588 45.1172C18.648 43.8597 17.1343 42.3135 15.9178 40.4785C15.8607 40.2093 15.8934 39.9489 16.0154 39.6972C16.6177 39.095 17.2198 38.4928 17.8221 37.8906C17.1322 36.7873 16.644 35.5991 16.3572 34.3261C15.4777 34.3424 14.5988 34.3261 13.7205 34.2773C13.4912 34.2435 13.3122 34.1296 13.1834 33.9355C12.8142 32.0264 12.749 30.1059 12.9881 28.1738C13.005 27.7618 13.1026 27.3712 13.2811 27.0019C13.3543 26.9408 13.4357 26.892 13.5252 26.8554C14.4687 26.8066 15.4127 26.7904 16.3572 26.8066C16.4372 26.3223 16.5674 25.8504 16.7479 25.3906C11.8918 26.3523 7.77398 25.0013 4.39434 21.3379C1.49481 17.5123 0.908872 13.3457 2.63653 8.83787C4.5713 4.80312 7.74512 2.42681 12.158 1.70896ZM13.5252 3.27146C18.8215 3.6049 22.2232 6.30672 23.7303 11.3769C24.1844 13.5159 24.0053 15.5993 23.1932 17.6269C23.1441 17.7266 23.0791 17.7429 22.9979 17.6758C22.4444 17.1223 21.8911 16.569 21.3377 16.0156C21.0122 15.8203 20.6866 15.8203 20.3611 16.0156C18.5828 17.2405 17.1017 18.7542 15.9178 20.5566C15.844 20.8303 15.8766 21.0908 16.0154 21.3379C16.6028 21.909 17.1725 22.4949 17.7244 23.0957C13.7392 24.6864 10.0933 24.1168 6.78692 21.3867C3.42452 18.0763 2.52934 14.1864 4.10137 9.71677C5.99188 5.73627 9.13316 3.58784 13.5252 3.27146ZM29.1502 14.5019C30.324 14.4851 31.4959 14.5178 32.6658 14.5996C32.6496 15.5116 32.6658 16.4231 32.7147 17.334C32.7601 17.4737 32.8415 17.5876 32.9588 17.6758C34.6372 18.0595 36.1997 18.7106 37.6463 19.6289C38.0401 19.7304 38.3982 19.6654 38.7205 19.4336C39.2576 18.8965 39.7947 18.3594 40.3318 17.8222C41.4405 18.6543 42.4009 19.6308 43.2127 20.7519C42.6607 21.3527 42.0911 21.9387 41.5037 22.5097C41.4136 22.6595 41.3647 22.8223 41.3572 22.998C41.7364 23.8543 42.1434 24.7006 42.5779 25.5371C42.8971 26.3318 43.1575 27.1456 43.3592 27.9785C43.4675 28.2046 43.6466 28.3511 43.8963 28.4179C44.742 28.4668 45.5884 28.483 46.4354 28.4668C46.5638 29.8659 46.5638 31.2656 46.4354 32.666C45.5233 32.6498 44.6118 32.666 43.701 32.7148C43.587 32.8288 43.4731 32.9427 43.3592 33.0566C43.1708 33.8171 42.943 34.5658 42.6756 35.3027C42.2586 36.2342 41.8191 37.1456 41.3572 38.0371C41.3647 38.2128 41.4136 38.3756 41.5037 38.5254C42.0911 39.0965 42.6607 39.6824 43.2127 40.2832C42.3989 41.4225 41.4224 42.3991 40.283 43.2129C39.6822 42.6609 39.0963 42.0913 38.5252 41.5039C38.3754 41.4137 38.2126 41.3649 38.0369 41.3574C37.1454 41.8193 36.234 42.2588 35.3025 42.6758C34.5656 42.9431 33.8169 43.171 33.0564 43.3594C32.9425 43.4733 32.8286 43.5872 32.7147 43.7011C32.6658 44.612 32.6496 45.5235 32.6658 46.4355C31.9647 46.4905 31.2648 46.5556 30.5662 46.6308C29.8667 46.56 29.1668 46.4949 28.4666 46.4355C28.4828 45.5886 28.4666 44.7422 28.4178 43.8965C28.3509 43.6468 28.2044 43.4677 27.9783 43.3594C27.1454 43.1577 26.3316 42.8972 25.5369 42.5781C24.6974 42.142 23.8511 41.735 22.9979 41.3574C22.8222 41.3649 22.6594 41.4137 22.5096 41.5039C21.9385 42.0913 21.3525 42.6609 20.7518 43.2129C19.6307 42.4011 18.6541 41.4407 17.8221 40.332C18.3917 39.7624 18.9614 39.1927 19.5311 38.623C19.6759 38.3103 19.7085 37.9847 19.6287 37.6465C18.7105 36.1999 18.0594 34.6374 17.6756 32.959C17.5874 32.8417 17.4735 32.7602 17.3338 32.7148C16.423 32.666 15.5114 32.6498 14.5994 32.666C14.4715 31.2661 14.4715 29.8664 14.5994 28.4668C15.5513 28.5078 16.4953 28.459 17.4315 28.3203C17.5827 28.2017 17.6966 28.0553 17.7732 27.8808C18.1237 26.2689 18.7423 24.7715 19.6287 23.3886C19.6939 23.1282 19.6939 22.8678 19.6287 22.6074C19.0265 22.0052 18.4243 21.403 17.8221 20.8008C18.6847 19.6777 19.6775 18.6848 20.8006 17.8222C21.4028 18.4245 22.005 19.0266 22.6072 19.6289C22.8677 19.694 23.128 19.694 23.3885 19.6289C24.8372 18.7117 26.3997 18.0607 28.076 17.6758C28.27 17.547 28.384 17.3679 28.4178 17.1386C28.4666 16.2929 28.4828 15.4466 28.4666 14.5996C28.7165 14.6291 28.9444 14.5965 29.1502 14.5019ZM29.6385 22.5097C29.7194 23.1759 29.7683 23.8595 29.785 24.5605C30.2367 25.1452 30.725 25.1777 31.2498 24.6582C31.3694 23.9497 31.4346 23.2335 31.4451 22.5097C35.4883 23.2733 37.8483 25.6822 38.5252 29.7363C37.8408 29.7201 37.1572 29.7363 36.4744 29.7851C36.0557 30.1534 35.9743 30.5928 36.2303 31.1035C36.3689 31.1972 36.5153 31.2786 36.6697 31.3476C37.2874 31.3965 37.9059 31.4127 38.5252 31.3965C37.8091 35.4329 35.4327 37.8093 31.3963 38.5254C31.4125 37.906 31.3963 37.2876 31.3475 36.6699C31.1176 36.1235 30.7106 35.9445 30.1268 36.1328C30.0128 36.2468 29.8989 36.3606 29.785 36.4746C29.7361 37.1574 29.7199 37.841 29.7361 38.5254C26.5791 38.0464 24.3493 36.3536 23.0467 33.4472C22.7916 32.7853 22.6451 32.1017 22.6072 31.3965C23.2995 31.434 23.9831 31.3851 24.658 31.25C25.2002 30.7189 25.1677 30.2306 24.5604 29.7851C23.8768 29.7526 23.1932 29.72 22.5096 29.6875C23.2762 25.682 25.6524 23.2894 29.6385 22.5097ZM30.1268 29.4433C31.4467 29.3837 31.8861 29.9696 31.4451 31.2011C30.7215 31.8768 30.0704 31.8117 29.492 31.0058C29.3027 30.3114 29.5144 29.7906 30.1268 29.4433Z"
-                                            fill="white"
-                                        />
-                                        <path
-                                            opacity="0.884"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M13.4278 4.15039C13.9083 4.10575 14.2501 4.30107 14.4531 4.73633C14.5183 5.12696 14.5183 5.51758 14.4531 5.90821C14.1631 6.48114 13.7237 6.62762 13.1348 6.34766C13.0175 6.25952 12.9361 6.14559 12.8906 6.00586C12.8255 5.55013 12.8255 5.09441 12.8906 4.63867C12.9988 4.3835 13.1778 4.22074 13.4278 4.15039Z"
-                                            fill="white"
-                                        />
-                                        <path
-                                            opacity="0.926"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M13.4277 7.66602C13.912 7.62307 14.2538 7.81839 14.4531 8.25196C14.5182 10.1399 14.5182 12.028 14.4531 13.916C14.3764 14.0904 14.2625 14.2369 14.1113 14.3555C13.1998 14.8763 12.2883 15.3972 11.3769 15.918C10.4769 15.9939 10.1351 15.5869 10.3515 14.6973C11.1104 14.1509 11.9078 13.6626 12.7441 13.2324C12.8254 11.5406 12.8743 9.84796 12.8906 8.15431C12.9987 7.89913 13.1777 7.73637 13.4277 7.66602Z"
-                                            fill="white"
-                                        />
-                                        <path
-                                            opacity="0.882"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M4.63878 12.8418C5.17184 12.803 5.69267 12.8518 6.20128 12.9883C6.64944 13.5872 6.55179 14.0755 5.90831 14.4531C5.44086 14.539 4.98513 14.5063 4.54112 14.3555C4.01619 13.8088 4.04874 13.3043 4.63878 12.8418Z"
-                                            fill="white"
-                                        />
-                                        <path
-                                            opacity="0.889"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M21.3377 12.8418C21.7946 12.8256 22.2503 12.8419 22.7049 12.8906C23.3365 13.4512 23.304 13.972 22.6072 14.4531C22.1103 14.5338 21.622 14.5012 21.1424 14.3555C20.7111 13.778 20.7762 13.2736 21.3377 12.8418Z"
-                                            fill="white"
-                                        />
-                                        <path
-                                            opacity="0.932"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M30.3222 18.3105C30.7056 18.2663 31.0148 18.3965 31.25 18.7012C31.3535 19.4122 31.4349 20.1283 31.4941 20.8496C35.868 21.4965 38.6837 23.9379 39.9414 28.1738C40.0671 28.6888 40.1486 29.2096 40.1855 29.7363C40.9024 29.7201 41.6185 29.7363 42.3339 29.7851C42.9067 30.3977 42.8416 30.9185 42.1386 31.3476C41.4884 31.3965 40.8374 31.4127 40.1855 31.3965C39.6449 35.6644 37.3336 38.4802 33.2519 39.8437C32.6442 40.021 32.0257 40.1349 31.3964 40.1855C31.4127 40.8374 31.3964 41.4885 31.3476 42.1387C30.9185 42.8416 30.3977 42.9067 29.7851 42.334C29.7363 41.6185 29.7201 40.9024 29.7363 40.1855C26.4571 39.8246 23.9343 38.2621 22.1679 35.498C21.4837 34.2431 21.0443 32.9084 20.8496 31.4941C20.1283 31.435 19.4122 31.3535 18.7011 31.25C18.1699 30.7185 18.2024 30.2303 18.7988 29.7851C19.4847 29.7686 20.1683 29.7198 20.8496 29.6387C21.6629 24.5934 24.5926 21.6638 29.6386 20.8496C29.7198 20.1684 29.7686 19.4848 29.7851 18.7988C29.8932 18.5436 30.0722 18.3809 30.3222 18.3105ZM29.6386 22.5098C25.6526 23.2894 23.2763 25.682 22.5097 29.6875C23.1933 29.72 23.8769 29.7526 24.5605 29.7851C25.1678 30.2307 25.2003 30.7189 24.6582 31.25C23.9833 31.3851 23.2997 31.434 22.6074 31.3965C22.6453 32.1017 22.7918 32.7853 23.0468 33.4473C24.3495 36.3536 26.5793 38.0464 29.7363 38.5254C29.7201 37.841 29.7363 37.1574 29.7851 36.4746C29.8991 36.3606 30.0129 36.2468 30.1269 36.1328C30.7108 35.9445 31.1177 36.1235 31.3476 36.6699C31.3964 37.2876 31.4127 37.906 31.3964 38.5254C35.4329 37.8093 37.8092 35.4329 38.5253 31.3965C37.906 31.4127 37.2876 31.3965 36.6699 31.3476C36.5155 31.2786 36.369 31.1973 36.2304 31.1035C35.9745 30.5929 36.0558 30.1534 36.4746 29.7851C37.1574 29.7363 37.841 29.7201 38.5253 29.7363C37.8485 25.6822 35.4884 23.2733 31.4453 22.5098C31.4347 23.2335 31.3696 23.9497 31.25 24.6582C30.7252 25.1777 30.2369 25.1452 29.7851 24.5605C29.7684 23.8595 29.7196 23.1759 29.6386 22.5098ZM30.1269 29.4434C29.5145 29.7906 29.3029 30.3114 29.4921 31.0059C30.0706 31.8117 30.7216 31.8768 31.4453 31.2012C31.8863 29.9696 31.4468 29.3837 30.1269 29.4434Z"
-                                            fill="#C7844F"
-                                        />
-                                        <path
-                                            opacity="0.889"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M13.3301 20.8496C13.886 20.7285 14.2604 20.9239 14.4531 21.4356C14.5183 21.8262 14.5183 22.2168 14.4531 22.6075C13.972 23.3042 13.4512 23.3367 12.8906 22.7051C12.8255 22.2493 12.8255 21.7937 12.8906 21.3379C12.9907 21.1243 13.1372 20.9616 13.3301 20.8496Z"
-                                            fill="white"
-                                        />
-                                        <path
-                                            opacity="0.929"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M29.7364 27.7832C31.8482 27.5207 33.0527 28.4321 33.3497 30.5176C33.2262 32.2524 32.2985 33.1964 30.5665 33.3496C28.2809 33.0127 27.402 31.7107 27.9297 29.4434C28.3041 28.6291 28.9063 28.0757 29.7364 27.7832ZM30.127 29.4434C29.5146 29.7906 29.303 30.3114 29.4922 31.0059C30.0707 31.8117 30.7217 31.8769 31.4454 31.2012C31.8864 29.9696 31.4469 29.3837 30.127 29.4434Z"
-                                            fill="white"
-                                        />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-eye" style="color: #fff;" viewBox="0 0 16 16">
+                                        <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+                                        <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
                                     </svg>
                                 </div>
                                 <div class="content">
-                                    <h3>Integrity</h3>
-                                    <p>There are many variations of passages of Lorem Ipsum available,xyz there isn't anything but the</p>
+                                    <h3>Vision</h3>
+                                    <p>To be one of the finest natural stone companies in the world.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-6">
                             <div class="values-box style1 wow fadeInUp" data-wow-delay=".5s">
                                 <div class="icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
-                                        <path
-                                            opacity="0.929"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M34.0334 1.80663C35.0756 1.79037 36.1172 1.80665 37.1584 1.85546C37.527 1.99629 37.8037 2.24043 37.9884 2.58788C37.9226 3.74485 38.4272 4.50983 39.5021 4.8828C39.8369 4.95127 40.1625 4.91871 40.4787 4.78515C40.7772 4.51927 41.1027 4.2914 41.4552 4.10155C41.9697 3.99726 42.458 4.06236 42.9201 4.29687C43.6595 4.97082 44.3268 5.70324 44.922 6.49413C44.9872 6.85221 44.9872 7.21027 44.922 7.56835C44.7322 7.92088 44.5044 8.2464 44.2384 8.54491C43.9753 9.38336 44.1869 10.0832 44.8732 10.6445C45.3809 10.8221 45.9018 10.9522 46.4357 11.0351C46.7832 11.2199 47.0273 11.4966 47.1681 11.8652C47.2333 12.9069 47.2333 13.9485 47.1681 14.9902C47.0645 15.2892 46.8855 15.5334 46.631 15.7226C46.1625 15.9155 45.6742 16.0457 45.1662 16.1133C44.3766 16.5041 44.0348 17.1389 44.1408 18.0176C44.3199 18.5217 44.5803 18.9773 44.922 19.3848C45.0513 19.9554 44.9537 20.4762 44.6291 20.9473C44.1245 21.4518 43.62 21.9563 43.1154 22.4609C42.2724 23.0937 41.4912 23.0286 40.7716 22.2656C39.6083 21.7203 38.7457 22.0296 38.1838 23.1933C38.0713 24.8317 37.1923 25.4828 35.547 25.1465C35.0036 25.1521 34.4665 25.1033 33.9357 25C33.6816 24.9138 33.47 24.7673 33.3009 24.5605C33.1293 23.9786 32.9665 23.3927 32.8127 22.8027C32.1433 21.9596 31.3458 21.7805 30.4201 22.2656C29.7975 22.9219 29.0814 23.052 28.2716 22.6562C27.6369 22.0215 27.0021 21.3867 26.3673 20.7519C26.1568 20.3846 26.0917 19.9939 26.172 19.5801C26.3817 19.0957 26.6422 18.6399 26.9533 18.2129C27.1736 17.3961 26.9295 16.7288 26.2209 16.2109C25.7891 16.052 25.3497 15.9381 24.9025 15.8691C24.7274 16.1421 24.5158 16.3862 24.2677 16.6016C21.7287 18.0664 19.1896 19.5312 16.6505 20.9961C15.6152 21.1331 14.5735 21.1819 13.5255 21.1426C13.5255 23.4212 13.5255 25.6999 13.5255 27.9785C14.5677 27.9622 15.6094 27.9785 16.6505 28.0273C17.7085 28.304 18.3758 28.9714 18.6525 30.0293C18.6688 32.4714 18.7176 34.9128 18.799 37.3535C28.6658 31.4762 38.5617 25.6493 48.4865 19.873C48.749 19.9224 48.9606 20.0525 49.1213 20.2637C49.1864 29.4433 49.1864 38.623 49.1213 47.8027C49.0331 47.92 48.9192 48.0015 48.7795 48.0469C33.4149 48.112 18.0503 48.112 2.6857 48.0469C1.70348 47.8134 1.06871 47.2112 0.781407 46.2402C0.702843 45.6475 0.735396 45.0616 0.879063 44.4824C2.17477 40.0257 3.46058 35.566 4.73649 31.1035C4.36795 30.5029 4.12381 29.8518 4.00406 29.1504C3.93896 26.2207 3.93896 23.291 4.00406 20.3613C4.43201 18.2732 5.68526 16.9874 7.76383 16.5039C10.2052 16.4714 12.6466 16.4388 15.088 16.4062C17.3181 15.0795 19.5642 13.7774 21.8263 12.5C22.5032 12.2916 23.1705 12.3079 23.8283 12.5488C23.9832 11.3851 24.6505 10.8155 25.8302 10.8398C26.9959 10.2723 27.305 9.4096 26.758 8.25194C25.995 7.53239 25.9298 6.75114 26.5627 5.90819C27.1716 5.23372 27.8389 4.6315 28.5646 4.10155C28.9227 4.03645 29.2807 4.03645 29.6388 4.10155C30.0659 4.41272 30.5216 4.67313 31.006 4.8828C31.8847 4.98876 32.5195 4.64696 32.9103 3.85741C32.8828 2.93474 33.2571 2.25114 34.0334 1.80663ZM34.5216 3.27147C35.2378 3.27147 35.954 3.27147 36.6701 3.27147C36.9145 5.48473 38.1514 6.51012 40.381 6.34765C41.0075 6.23791 41.5446 5.96122 41.9923 5.51757C42.4969 6.02213 43.0014 6.52668 43.506 7.03124C42.5188 8.21445 42.3723 9.50026 43.0666 10.8887C43.701 11.8489 44.5963 12.3372 45.7521 12.3535C45.7521 13.0696 45.7521 13.7858 45.7521 14.5019C44.0861 14.642 43.0607 15.5209 42.6759 17.1387C42.6108 17.5293 42.6108 17.9199 42.6759 18.3105C42.8665 18.9184 43.1269 19.4719 43.4572 19.9707C43.0001 20.4442 42.528 20.8999 42.0412 21.3379C40.4432 20.1436 38.897 20.2088 37.4025 21.5332C36.8963 22.1568 36.6521 22.8729 36.6701 23.6816C35.954 23.6816 35.2378 23.6816 34.5216 23.6816C34.3354 21.7538 33.2774 20.6796 31.3478 20.459C30.8616 20.5156 30.3896 20.6295 29.9318 20.8008C29.6369 20.9962 29.3439 21.159 29.0529 21.2891C28.5794 20.8319 28.1237 20.3599 27.6857 19.873C28.9218 18.1888 28.7916 16.61 27.2951 15.1367C26.7126 14.7201 26.0615 14.5085 25.342 14.5019C25.342 13.7858 25.342 13.0696 25.342 12.3535C27.3297 12.2377 28.4039 11.1797 28.5646 9.17968C28.5009 8.35297 28.208 7.62055 27.6857 6.98241C28.1237 6.49558 28.5794 6.02356 29.0529 5.5664C29.5517 5.89671 30.1051 6.15713 30.713 6.34765C32.5103 6.54862 33.731 5.8162 34.3752 4.15038C34.4431 3.85955 34.492 3.56658 34.5216 3.27147ZM35.0099 8.83788C37.7969 8.8106 39.5059 10.1452 40.1369 12.8418C40.3038 14.7049 39.6364 16.186 38.1349 17.2851C35.4596 18.6549 33.2624 18.1178 31.5431 15.6738C30.5442 13.4689 30.9185 11.532 32.6662 9.86327C33.3737 9.32994 34.1549 8.98814 35.0099 8.83788ZM22.5099 13.8183C23.3714 13.7519 23.7458 14.1426 23.633 14.9902C23.4865 15.2669 23.2749 15.4785 22.9982 15.625C20.6711 16.935 18.3598 18.2696 16.0646 19.6289C14.8927 19.6614 13.7209 19.694 12.549 19.7266C12.3545 19.7826 12.208 19.8966 12.1095 20.0683C12.0444 23.0632 12.0444 26.0579 12.1095 29.0527C12.1584 29.2317 12.2723 29.3457 12.4513 29.3945C13.786 29.427 15.1206 29.4597 16.4552 29.4922C16.8388 29.6477 17.083 29.9245 17.1877 30.3223C17.2528 33.3171 17.2528 36.3118 17.1877 39.3066C16.7058 40.2884 16.0547 40.4186 15.2345 39.6973C15.1504 39.5423 15.0852 39.3795 15.0392 39.209C15.0067 36.8001 14.9741 34.3913 14.9416 31.9824C14.8602 31.9011 14.7788 31.8196 14.6974 31.7383C12.4478 31.732 10.2017 31.667 7.95914 31.543C6.63101 31.1589 5.80093 30.2962 5.46891 28.9551C5.37434 26.0207 5.40689 23.091 5.56656 20.166C5.98944 19.027 6.78697 18.2946 7.95914 17.9687C10.5368 17.9661 13.1085 17.9011 15.674 17.7734C17.9691 16.4683 20.2477 15.15 22.5099 13.8183ZM47.5099 22.0215C47.7049 30.1914 47.7701 38.3945 47.7052 46.6308C33.8381 46.6472 19.9709 46.6308 6.10367 46.582C9.05769 44.8528 12.0037 43.1112 14.9416 41.3574C17.0634 42.0132 18.3493 41.2482 18.799 39.0625C28.3916 33.4042 37.9619 27.7238 47.5099 22.0215ZM5.90836 32.2754C6.53711 32.6708 7.2207 32.9312 7.95914 33.0566C6.74911 37.4736 5.4633 41.8682 4.10172 46.2402C3.37389 46.8187 2.7554 46.7211 2.24625 45.9473C2.18114 45.6543 2.18114 45.3613 2.24625 45.0683C3.48254 40.8065 4.70324 36.5422 5.90836 32.2754ZM6.20133 44.7754C7.26144 40.9275 8.35193 37.0863 9.47281 33.2519C10.816 33.1553 12.167 33.1227 13.5255 33.1543C13.5092 35.2704 13.5255 37.3863 13.5744 39.5019C13.6469 39.772 13.7121 40.0323 13.7697 40.2832C11.2523 41.794 8.72947 43.2914 6.20133 44.7754Z"
-                                            fill="white"
-                                        />
-                                        <path
-                                            opacity="0.921"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M34.8143 7.37308C38.0541 7.22591 40.2513 8.65819 41.4061 11.67C42.1258 15.1294 40.9051 17.6197 37.744 19.1407C34.2649 20.1197 31.677 19.0291 29.9803 15.8692C28.8973 12.6731 29.7274 10.1177 32.4706 8.20316C33.2189 7.7966 34.0002 7.5199 34.8143 7.37308ZM35.0096 8.83792C34.1546 8.98818 33.3734 9.32998 32.6659 9.86331C30.9182 11.5321 30.5439 13.469 31.5428 15.6739C33.2621 18.1178 35.4593 18.6549 38.1346 17.2852C39.6361 16.1861 40.3035 14.7049 40.1366 12.8418C39.5056 10.1452 37.7966 8.81064 35.0096 8.83792Z"
-                                            fill="#C7844F"
-                                        />
-                                        <path
-                                            opacity="0.921"
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M10.0098 8.05664C13.1326 8.07067 14.6463 9.63317 14.5508 12.7441C13.842 15.2396 12.198 16.2976 9.61914 15.918C7.71939 15.336 6.71027 14.0503 6.5918 12.0605C6.79414 9.90635 7.93347 8.57175 10.0098 8.05664ZM10.2051 9.52148C11.9404 9.49938 12.917 10.3457 13.1348 12.0605C12.976 13.5865 12.1296 14.4329 10.5957 14.5996C9.10816 14.3653 8.26181 13.5027 8.05664 12.0117C8.24281 10.7049 8.95896 9.8748 10.2051 9.52148Z"
-                                            fill="white"
-                                        />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-rocket-takeoff" style="color: #fff;" viewBox="0 0 16 16">
+                                        <path d="M9.752 6.193c.599.6 1.73.437 2.528-.362s.96-1.932.362-2.531c-.599-.6-1.73-.438-2.528.361-.798.8-.96 1.933-.362 2.532"/>
+                                        <path d="M15.811 3.312c-.363 1.534-1.334 3.626-3.64 6.218l-.24 2.408a2.56 2.56 0 0 1-.732 1.526L8.817 15.85a.51.51 0 0 1-.867-.434l.27-1.899c.04-.28-.013-.593-.131-.956a9 9 0 0 0-.249-.657l-.082-.202c-.815-.197-1.578-.662-2.191-1.277-.614-.615-1.079-1.379-1.275-2.195l-.203-.083a10 10 0 0 0-.655-.248c-.363-.119-.675-.172-.955-.132l-1.896.27A.51.51 0 0 1 .15 7.17l2.382-2.386c.41-.41.947-.67 1.524-.734h.006l2.4-.238C9.005 1.55 11.087.582 12.623.208c.89-.217 1.59-.232 2.08-.188.244.023.435.06.57.093q.1.026.16.045c.184.06.279.13.351.295l.029.073a3.5 3.5 0 0 1 .157.721c.055.485.051 1.178-.159 2.065m-4.828 7.475.04-.04-.107 1.081a1.54 1.54 0 0 1-.44.913l-1.298 1.3.054-.38c.072-.506-.034-.993-.172-1.418a9 9 0 0 0-.164-.45c.738-.065 1.462-.38 2.087-1.006M5.205 5c-.625.626-.94 1.351-1.004 2.09a9 9 0 0 0-.45-.164c-.424-.138-.91-.244-1.416-.172l-.38.054 1.3-1.3c.245-.246.566-.401.91-.44l1.08-.107zm9.406-3.961c-.38-.034-.967-.027-1.746.163-1.558.38-3.917 1.496-6.937 4.521-.62.62-.799 1.34-.687 2.051.107.676.483 1.362 1.048 1.928.564.565 1.25.941 1.924 1.049.71.112 1.429-.067 2.048-.688 3.079-3.083 4.192-5.444 4.556-6.987.183-.771.18-1.345.138-1.713a3 3 0 0 0-.045-.283 3 3 0 0 0-.3-.041Z"/>
+                                        <path d="M7.009 12.139a7.6 7.6 0 0 1-1.804-1.352A7.6 7.6 0 0 1 3.794 8.86c-1.102.992-1.965 5.054-1.839 5.18.125.126 3.936-.896 5.054-1.902Z"/>
                                     </svg>
                                 </div>
                                 <div class="content">
-                                    <h3>Passion</h3>
-                                    <p>There are many variations of passages of Lorem Ipsum available,xyz there isn't anything but the</p>
+                                    <h3>Mission</h3>
+                                    <p>To develop strong sourcing and processing capabilities to be able to deliver top quality products to the market.</p>
                                 </div>
                             </div>
                         </div>
@@ -545,12 +312,12 @@
                                     </svg>
                                 </div>
                                 <div class="content">
-                                    <h3>Adaptability</h3>
-                                    <p>There are many variations of passages of Lorem Ipsum available,xyz there isn't anything but the</p>
+                                    <h3>Built on Values</h3>
+                                    <p>Marble Decor is driven by values and guided by its commitment to offer the highest quality natural stones.</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-6">
+                        <!-- <div class="col-xl-6">
                             <div class="values-box style1 wow fadeInUp" data-wow-delay=".8s">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none">
@@ -589,248 +356,7 @@
                                     <p>There are many variations of passages of Lorem Ipsum available,xyz there isn't anything but the</p>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Team Section    S T A R T -->
-        <section class="team-section">
-            <div class="team-container-wrapper style2 section-padding fix" data-bg-src="assets/images/bg/teamBg2_1.jpg">
-                <div class="container">
-                    <div class="section-title text-center mb-50 mxw-660 mx-auto">
-                        <div class="subtitle text-center wow fadeInUp" data-wow-delay=".5s">
-                            <img class="me-1" src="assets/images/shape/titleShape1_1.png" alt="icon" /> OUR TEAM <img class="ms-1" src="assets/images/shape/titleShape1_2.png" alt="icon" />
-                        </div>
-                        <h2 class="text-center mt-15 wow fadeInUp" data-wow-delay=".3s">Meet the Members of Our Best Team</h2>
-                    </div>
-
-                    <div class="slider-area">
-                        <div
-                            class="swiper gt-slider"
-                            id="teamSliderTwo"
-                            data-slider-options='{"loop": true,"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":1,"centeredSlides":true},"768":{"slidesPerView":2},"992":{"slidesPerView":3},"1200":{"slidesPerView":4}}}'
-                        >
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="team-card style2 wow fadeInUp" data-wow-delay=".3s">
-                                        <div class="team-thumb">
-                                            <img src="assets/images/team/teamThumb2_1.jpg" alt="thumb" />
-                                        </div>
-                                        <div class="team-content">
-                                            <h3><a href="team-details.php">Jenny Wilson</a></h3>
-                                            <p>Marketing Manger</p>
-                                        </div>
-                                        <div class="social-profile">
-                                            <ul>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                </li>
-                                            </ul>
-                                            <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
-                                        </div>
-                                        <div class="shape1"><img src="assets/images/shape/teamCardShape2_1.png" alt="shape" /></div>
-                                        <div class="shape2"><img src="assets/images/shape/teamCardShape2_2.png" alt="shape" /></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-card style2 wow fadeInUp" data-wow-delay=".5s">
-                                        <div class="team-thumb">
-                                            <img src="assets/images/team/teamThumb2_2.jpg" alt="thumb" />
-                                        </div>
-                                        <div class="team-content">
-                                            <h3><a href="team-details.php">Guy Hawkins</a></h3>
-                                            <p>Development Head</p>
-                                        </div>
-                                        <div class="social-profile">
-                                            <ul>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                </li>
-                                            </ul>
-                                            <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
-                                        </div>
-                                        <div class="shape1"><img src="assets/images/shape/teamCardShape2_1.png" alt="shape" /></div>
-                                        <div class="shape2"><img src="assets/images/shape/teamCardShape2_2.png" alt="shape" /></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-card style2 wow fadeInUp" data-wow-delay=".7s">
-                                        <div class="team-thumb">
-                                            <img src="assets/images/team/teamThumb2_3.jpg" alt="thumb" />
-                                        </div>
-                                        <div class="team-content">
-                                            <h3><a href="team-details.php">Leslie Alexander</a></h3>
-                                            <p>Head Manger</p>
-                                        </div>
-                                        <div class="social-profile">
-                                            <ul>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                </li>
-                                            </ul>
-                                            <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
-                                        </div>
-                                        <div class="shape1"><img src="assets/images/shape/teamCardShape2_1.png" alt="shape" /></div>
-                                        <div class="shape2"><img src="assets/images/shape/teamCardShape2_2.png" alt="shape" /></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-card style2 wow fadeInUp" data-wow-delay=".9s">
-                                        <div class="team-thumb">
-                                            <img src="assets/images/team/teamThumb2_4.jpg" alt="thumb" />
-                                        </div>
-                                        <div class="team-content">
-                                            <h3><a href="team-details.php">Brooklyn Simmons</a></h3>
-                                            <p>Manager Controller</p>
-                                        </div>
-                                        <div class="social-profile">
-                                            <ul>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                </li>
-                                            </ul>
-                                            <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
-                                        </div>
-                                        <div class="shape1"><img src="assets/images/shape/teamCardShape2_1.png" alt="shape" /></div>
-                                        <div class="shape2"><img src="assets/images/shape/teamCardShape2_2.png" alt="shape" /></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-card style2">
-                                        <div class="team-thumb">
-                                            <img src="assets/images/team/teamThumb2_1.jpg" alt="thumb" />
-                                        </div>
-                                        <div class="team-content">
-                                            <h3><a href="team-details.php">Masirul Islam</a></h3>
-                                            <p>Head Manager</p>
-                                        </div>
-                                        <div class="social-profile">
-                                            <ul>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                </li>
-                                            </ul>
-                                            <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
-                                        </div>
-                                        <div class="shape1"><img src="assets/images/shape/teamCardShape2_1.png" alt="shape" /></div>
-                                        <div class="shape2"><img src="assets/images/shape/teamCardShape2_2.png" alt="shape" /></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-card style2">
-                                        <div class="team-thumb">
-                                            <img src="assets/images/team/teamThumb2_2.jpg" alt="thumb" />
-                                        </div>
-                                        <div class="team-content">
-                                            <h3><a href="team-details.php">Leslie Alexander</a></h3>
-                                            <p>Marketing Manger</p>
-                                        </div>
-                                        <div class="social-profile">
-                                            <ul>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                </li>
-                                            </ul>
-                                            <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
-                                        </div>
-                                        <div class="shape1"><img src="assets/images/shape/teamCardShape2_1.png" alt="shape" /></div>
-                                        <div class="shape2"><img src="assets/images/shape/teamCardShape2_2.png" alt="shape" /></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-card style2">
-                                        <div class="team-thumb">
-                                            <img src="assets/images/team/teamThumb2_3.jpg" alt="thumb" />
-                                        </div>
-                                        <div class="team-content">
-                                            <h3><a href="team-details.php">Brooklyn Simmons</a></h3>
-                                            <p>Desing Manager</p>
-                                        </div>
-                                        <div class="social-profile">
-                                            <ul>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                </li>
-                                            </ul>
-                                            <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
-                                        </div>
-                                        <div class="shape1"><img src="assets/images/shape/teamCardShape2_1.png" alt="shape" /></div>
-                                        <div class="shape2"><img src="assets/images/shape/teamCardShape2_2.png" alt="shape" /></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-card style2">
-                                        <div class="team-thumb">
-                                            <img src="assets/images/team/teamThumb2_4.jpg" alt="thumb" />
-                                        </div>
-                                        <div class="team-content">
-                                            <h3><a href="team-details.php">Brooklyn Simmons</a></h3>
-                                            <p>Marketing Manager</p>
-                                        </div>
-                                        <div class="social-profile">
-                                            <ul>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                                </li>
-                                            </ul>
-                                            <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
-                                        </div>
-                                        <div class="shape1"><img src="assets/images/shape/teamCardShape2_1.png" alt="shape" /></div>
-                                        <div class="shape2"><img src="assets/images/shape/teamCardShape2_2.png" alt="shape" /></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

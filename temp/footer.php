@@ -44,28 +44,43 @@
                                     About Us
                                 </a>
                             </li>
-                            <!-- <li>
-                                <a href="services.php">
+                            <li>
+                                <a href="projects.php">
                                     <i class="fa-solid fa-chevrons-right"></i>
-                                    Services
+                                    Completed Projects
                                 </a>
                             </li>
-                            <li>
-                                <a href="blog.php">
-                                    <i class="fa-solid fa-chevrons-right"></i>
-                                    Our Blogs
-                                </a>
-                            </li>
-                            <li>
-                                <a href="team.php">
-                                    <i class="fa-solid fa-chevrons-right"></i>
-                                    Team Members
-                                </a>
-                            </li> -->
                             <li>
                                 <a href="contact.php">
                                     <i class="fa-solid fa-chevrons-right"></i>
                                     Contact Us
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
+                    <div class="single-footer-widget">
+                        <div class="widget-head">
+                            <h3><img class="me-1" src="assets/images/shape/footertitleShape1_1.png" alt="shape" /> Our Products</h3>
+                        </div>
+                        <ul class="list-area">
+                            <li>
+                                <a href="interior.php">
+                                    <i class="fa-solid fa-chevrons-right"></i>
+                                    Interior
+                                </a>
+                            </li>
+                            <li>
+                                <a href="tiles.php">
+                                    <i class="fa-solid fa-chevrons-right"></i>
+                                    Tiles
+                                </a>
+                            </li>
+                            <li>
+                                <a href="granite.php">
+                                    <i class="fa-solid fa-chevrons-right"></i>
+                                    Granite
                                 </a>
                             </li>
                         </ul>
@@ -80,9 +95,9 @@
                             <li>
                                 <div class="title">
                                     <a
-                                        href="https://www.google.com/maps/place/Egens+Lab/@23.8340712,90.3631117,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c14c8682a473:0xa6c74743d52adb88!8m2!3d23.8340663!4d90.3656866!16s%2Fg%2F11rs9vlwsk?entry=ttu"
+                                        href="#"
                                     >
-                                        <span class="text-theme-color me-1"> <i class="fa-regular fa-location-dot"></i> </span> 6391 Elgin St. Celina, USA
+                                        <span class="text-theme-color me-1"> <i class="fa-regular fa-location-dot"></i> </span> Hopes College, Coimbatore.
                                     </a>
                                 </div>
                             </li>
@@ -95,20 +110,12 @@
                             </li>
                             <li>
                                 <div class="title">
-                                    <a href="mailto:Infotech@gmail.com">
-                                        <span class="text-theme-color me-1"> <i class="fa-regular fa-envelope"></i> </span> floremh@gmail.com
+                                    <a href="mailto:info@marbledecorindia.com">
+                                        <span class="text-theme-color me-1"> <i class="fa-regular fa-envelope"></i> </span> info@marbledecorindia.com
                                     </a>
                                 </div>
                             </li>
                         </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                    <div class="single-footer-widget">
-                        <div class="widget-head">
-                            <h3><img class="me-1" src="assets/images/shape/footertitleShape1_1.png" alt="shape" /> Reach Us</h3>
-                        </div>
-                        
                     </div>
                 </div>
             </div>
@@ -124,6 +131,8 @@
         </div>
     </div>
 </footer>
+
+<a href="https://wa.me/919952442369" class="whatsapp_float" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
 
 <!--<< All JS Plugins >>-->
 <script src="assets/js/jquery-3.7.1.min.js"></script>

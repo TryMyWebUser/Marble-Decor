@@ -85,7 +85,7 @@
                     </div>
                 </div>
                 <p class="text d-none d-xl-block">
-                    Nullam dignissim, ante scelerisque the is euismod fermentum odio sem semper the is erat, a feugiat leo urna eget eros. Duis Aenean a imperdiet risus.
+                    Marble Decor is one of the most reputed wholesale & retail dealers of premium flooring products in South India.
                 </p>
                 <div class="mobile-menu fix mb-3"></div>
                 <div class="offcanvas__contact">
@@ -96,7 +96,7 @@
                                 <i class="fal fa-map-marker-alt"></i>
                             </div>
                             <div class="offcanvas__contact-text">
-                                <a target="_blank" href="#">Main Street, Melbourne, Australia</a>
+                                <a target="_blank" href="#">Hope College, Coimbatore.</a>
                             </div>
                         </li>
                         <li class="d-flex align-items-center">
@@ -104,7 +104,7 @@
                                 <i class="fal fa-envelope"></i>
                             </div>
                             <div class="offcanvas__contact-text">
-                                <a href="mailto:info@example.com"><span class="mailto:info@example.com">info@example.com</span></a>
+                                <a href="mailto:info@marbledecorindia.com"><span class="mailto:info@marbledecorindia.com">info@marbledecorindia.com</span></a>
                             </div>
                         </li>
                         <!-- <li class="d-flex align-items-center">
@@ -142,9 +142,15 @@
 </div>
 <div class="offcanvas__overlay"></div>
 
+<style>
+    .header-1 {
+        background: var(--theme2);
+    }
+</style>
+
 <!-- Header Section Start -->
-<header class="header-section-2">
-    <div id="header-sticky" class="header-2">
+<header class="header-section-1">
+    <div id="header-sticky" class="header-1">
         <div class="container">
             <div class="mega-menu-wrapper">
                 <div class="header-main">
@@ -152,7 +158,7 @@
                         <div class="logo">
                             <a href="index.php" class="header-logo">
                                 <!-- <img src="assets/images/logo/logo.svg" alt="logo-img" /> -->
-                                <h3>Marble Decor</h3>
+                                <h3 class="fs-4">Marble Decor</h3>
                             </a>
                         </div>
                     </div>
@@ -161,181 +167,25 @@
                             <div class="main-menu">
                                 <nav id="mobile-menu">
                                     <ul>
-                                        <!-- <li class="has-dropdown active menu-thumb">
-                                            <a href="#">
-                                                Home
-                                                <i class="fas fa-angle-down"></i>
-                                            </a>
-                                            <ul class="submenu has-homemenu">
-                                                <li>
-                                                    <div class="homemenu-items">
-                                                        <div class="homemenu">
-                                                            <div class="homemenu-thumb">
-                                                                <img src="assets/images/header/home-1.png" alt="img" />
-                                                                <div class="demo-button">
-                                                                    <a class="theme-btn" href="index.php">
-                                                                        Multi Page
-                                                                    </a>
-                                                                    <a class="theme-btn" href="index-one-page.php">
-                                                                        One Page
-                                                                    </a>
-                                                                    <a class="theme-btn" href="index-dark.php">
-                                                                        Dark Page
-                                                                    </a>
-                                                                </div>
-                                                            </div>
-                                                            <div class="homemenu-content text-center">
-                                                                <h4 class="homemenu-title">
-                                                                    Home 01
-                                                                </h4>
-                                                            </div>
-                                                        </div>
-                                                        <div class="homemenu">
-                                                            <div class="homemenu-thumb mb-15">
-                                                                <img src="assets/images/header/home-2.png" alt="img" />
-                                                                <div class="demo-button">
-                                                                    <a class="theme-btn" href="index2.php">
-                                                                        Multi Page
-                                                                    </a>
-                                                                    <a class="theme-btn" href="index-two-page.php">
-                                                                        One Page
-                                                                    </a>
-                                                                    <a class="theme-btn" href="index-2-dark.php">
-                                                                        Dark Page
-                                                                    </a>
-                                                                </div>
-                                                            </div>
-                                                            <div class="homemenu-content text-center">
-                                                                <h4 class="homemenu-title">
-                                                                    Home 02
-                                                                </h4>
-                                                            </div>
-                                                        </div>
-                                                        <div class="homemenu">
-                                                            <div class="homemenu-thumb mb-15">
-                                                                <img src="assets/images/header/home-3.png" alt="img" />
-                                                                <div class="demo-button">
-                                                                    <a class="theme-btn" href="index3.php">
-                                                                        Multi Page
-                                                                    </a>
-                                                                    <a class="theme-btn" href="index-three-page.php">
-                                                                        One Page
-                                                                    </a>
-                                                                    <a class="theme-btn" href="index-3-dark.php">
-                                                                        Dark Page
-                                                                    </a>
-                                                                </div>
-                                                            </div>
-                                                            <div class="homemenu-content text-center">
-                                                                <h4 class="homemenu-title">
-                                                                    Home 03
-                                                                </h4>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="has-dropdown active d-xl-none">
-                                            <a href="index.php" class="border-none">
-                                                Home
-                                                <i class="fa-regular fa-plus"></i>
-                                            </a>
-                                            <ul class="submenu">
-                                                <li><a href="index.php">Home 01</a></li>
-                                                <li><a href="index-2.php">Home 02</a></li>
-                                                <li><a href="index-3.php">Home 03</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="has-dropdown active d-xl-none">
-                                            <a href="index.php" class="border-none">
-                                                Home
-                                                <i class="fa-regular fa-plus"></i>
-                                            </a>
-                                            <ul class="submenu">
-                                                <li><a href="index.php">Home 01</a></li>
-                                                <li><a href="index-2.php">Home 02</a></li>
-                                                <li><a href="index-3.php">Home 03</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="about.php">About Us</a>
-                                        </li>
-                                        <li>
-                                            <a href="services.php">
-                                                Services
-                                                <i class="fas fa-angle-down"></i>
-                                            </a>
-                                            <ul class="submenu">
-                                                <li><a href="services.php">Services</a></li>
-                                                <li><a href="service-details.php">Service Details</a></li>
-                                            </ul>
-                                        </li>
-
-                                        <li class="has-dropdown">
-                                            <a href="#">
-                                                Pages
-                                                <i class="fas fa-angle-down"></i>
-                                            </a>
-                                            <ul class="submenu">
-                                                <li class="has-dropdown">
-                                                    <a href="project.php">
-                                                        Project
-                                                        <i class="fas fa-angle-down"></i>
-                                                    </a>
-                                                    <ul class="submenu">
-                                                        <li><a href="project.php">Project</a></li>
-                                                        <li><a href="project-details.php">Project Details</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="has-dropdown">
-                                                    <a href="team.php">
-                                                        Team
-                                                        <i class="fas fa-angle-down"></i>
-                                                    </a>
-                                                    <ul class="submenu">
-                                                        <li><a href="team.php">Team</a></li>
-                                                        <li><a href="team-details.php">Team Details</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="pricing.php"> Pricing </a></li>
-                                                <li><a href="gallery.php"> Gallery </a></li>
-                                                <li><a href="faq.php">Faq's</a></li>
-                                                <li><a href="login.php">Login</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="has-dropdown">
-                                            <a href="shop.php">
-                                                Shop
-                                                <i class="fas fa-angle-down"></i>
-                                            </a>
-                                            <ul class="submenu">
-                                                <li><a href="shop.php">Shop</a></li>
-                                                <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
-                                                <li><a href="shop-list.php">Shop List</a></li>
-                                                <li><a href="shop-list-right-sidebar.php">Shop List Right Sidebar</a></li>
-                                                <li><a href="shop-details.php">Shop Details</a></li>
-                                                <li><a href="cart.php">Cart</a></li>
-                                                <li><a href="checkout.php">Checkout</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="blog.php">
-                                                Blogs
-                                                <i class="fas fa-angle-down"></i>
-                                            </a>
-                                            <ul class="submenu">
-                                                <li><a href="blog.php">Blog</a></li>
-                                                <li><a href="blog-standard.php">Blog Standard</a></li>
-                                                <li><a href="blog-right-sidebar.php">Blog Right Sidebar</a></li>
-                                                <li><a href="blog-details.php">Blog Details</a></li>
-                                            </ul>
-                                        </li> -->
                                         <li>
                                             <a href="index.php">Home</a>
                                         </li>
                                         <li>
                                             <a href="about.php">About Us</a>
+                                        </li>
+                                        <li class="has-dropdown">
+                                            <a href="#">
+                                                Products
+                                                <i class="fas fa-angle-down"></i>
+                                            </a>
+                                            <ul class="submenu">
+                                                <li><a href="interior.php">Interior</a></li>
+                                                <li><a href="tiles.php">Tiles</a></li>
+                                                <li><a href="granite.php">Granite</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="projects.php">Completed Projects</a>
                                         </li>
                                         <li>
                                             <a href="contact.php">Contact Us</a>
@@ -348,17 +198,12 @@
                     <div class="header-right d-flex justify-content-end align-items-center">
                         <div class="header-button">
                             <div class="btn-wrapper">
-                                <a href="tel:+919952442369"> <span class="theme-btn"> GET A QUOTE </span> </a>
+                                <a href="contact.php"> <span class="theme-btn"> GET A QUOTE </span> </a>
                             </div>
                         </div>
-                        <div class="header__hamburger d-xl-block my-auto">
+                        <div class="header__hamburger d-block d-xl-none my-auto">
                             <div class="sidebar__toggle">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="21" viewBox="0 0 30 21"
-                                    fill="none">
-                                    <line y1="0.5" x2="20" y2="0.5" stroke="#2B1E16" />
-                                    <line y1="10.5" x2="30" y2="10.5" stroke="#2B1E16" />
-                                    <line y1="20.5" x2="20" y2="20.5" stroke="#2B1E16" />
-                                </svg>
+                                <i class="fas fa-bars"></i>
                             </div>
                         </div>
                     </div>

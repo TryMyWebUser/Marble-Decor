@@ -59,7 +59,11 @@
                                                     <img src="assets/images/intro/introThumb1_1.png" alt="thumb" />
 
                                                     <div class="video-wrap ripple-effect rounded-0">
-                                                        <a href="https://www.youtube.com/watch?v=f2Gzr8sAGB8" class="play-btn popup-video"><img class="playerImg" src="assets/images/icon/playerIcon1_2.svg" alt="icon" /></a>
+                                                        <div class="video-preview" style="background-image: url('assets/images/video-preview-1.jpg');">
+                                                            <a href="#" class="play-btn" data-video-src="assets/img/VID-20250424-WA0001.mp4">
+                                                                <img class="playerImg" src="assets/images/icon/playerIcon1_2.svg" alt="Play video">
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -105,10 +109,14 @@
                                             </div>
                                             <div class="col-xl-6">
                                                 <div class="intro-thumb" data-ani="slideinright" data-ani-delay="0.7s">
-                                                    <img src="assets/images/intro/introThumb1_1.png" alt="thumb" />
+                                                    <img src="assets/images/intro/introThumb1_2.png" alt="thumb" />
 
                                                     <div class="video-wrap ripple-effect rounded-0">
-                                                        <a href="https://www.youtube.com/watch?v=f2Gzr8sAGB8" class="play-btn popup-video"><img class="playerImg" src="assets/images/icon/playerIcon1_2.svg" alt="icon" /></a>
+                                                        <div class="video-preview" style="background-image: url('assets/images/video-preview-1.jpg');">
+                                                            <a href="#" class="play-btn" data-video-src="assets/img/VID-20250424-WA0002.mp4">
+                                                                <img class="playerImg" src="assets/images/icon/playerIcon1_2.svg" alt="Play video">
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -154,11 +162,7 @@
                                             </div>
                                             <div class="col-xl-6">
                                                 <div class="intro-thumb" data-ani="slideinright" data-ani-delay="0.7s">
-                                                    <img src="assets/images/intro/introThumb1_1.png" alt="thumb" />
-
-                                                    <div class="video-wrap ripple-effect rounded-0">
-                                                        <a href="https://www.youtube.com/watch?v=f2Gzr8sAGB8" class="play-btn popup-video"><img class="playerImg" src="assets/images/icon/playerIcon1_2.svg" alt="icon" /></a>
-                                                    </div>
+                                                    <img src="assets/images/intro/introThumb1_3.png" alt="thumb" />
                                                 </div>
                                             </div>
                                         </div>
@@ -179,15 +183,15 @@
 
         <!-- About Section    S T A R T -->
         <section class="about-section">
-            <div class="about-container-wrapper style2 section-padding pb-0 fix bg-white">
+            <div class="about-container-wrapper style2 section-padding fix bg-white">
                 <div class="container">
                     <div class="about-wrapper style2">
                         <div class="row gy-5 gx-60">
                             <div class="col-xl-6">
                                 <div class="about-thumb img-custom-anim-left wow fadeInUp" data-wow-delay=".3s">
-                                    <div class="thumbShape1"><img src="assets/images/shape/aboutThumbshape2_1.php" alt="thumbshape" /></div>
+                                    <div class="thumbShape1"><img src="assets/images/shape/aboutshape1_1.png" alt="thumbshape" /></div>
 
-                                    <div class="thumbShape2"><img src="assets/images/shape/aboutThumbshape2_2.php" alt="thumbshape" /></div>
+                                    <div class="thumbShape2"><img src="assets/images/shape/aboutThumbshape3_1.png" alt="thumbshape" /></div>
 
                                     <img class="thumb1" src="assets/images/about/aboutThumb2_1.jpg" alt="thumb" />
                                     <img class="thumb2" src="assets/images/about/aboutThumb2_2.jpg" alt="thumb" />
@@ -197,13 +201,13 @@
                                 <div class="about-content">
                                     <div class="section-title text-start mt-70">
                                         <div class="subtitle text-start wow fadeInUp" data-wow-delay=".5s"><img class="me-1" src="assets/images/shape/titleShape1_1.png" alt="icon" /> ABOUT US</div>
-                                        <h2 class="text-start mt-15 wow fadeInUp" data-wow-delay=".3s">The Best Paving & Flooring Company</h2>
+                                        <h2 class="text-start mt-15 wow fadeInUp" data-wow-delay=".3s">Marble Decor</h2>
                                         <p class="desc wow fadeInUp" data-wow-delay=".5s">
-                                            Marble Decor is one of the most reputed wholesale & retail dealers of premium flooring products in South India. We are one of the very few dealers in Coimbatore who deals with the widest range of super premium flooring products like Imported Marble, Imported Granite, Indian Marble, Indian Granite, Sandstone, Quartz, Natural Stone, Premium Thin Tiles, Engineered Marble and etc.,
-                                        </p>
+                                            Marble Decor is one of the most reputed wholesale & retail dealers of premium flooring products in South India. We are one of the very few dealers in Coimbatore who deals with the widest range of super premium flooring products like Imported Marble, Imported Granite, Indian Marble, Indian Granite, Sandstone, Quartz, Natural Stone, Premium Thin Tiless, Engineered Marble and etc.,
+                                        </p><br>
                                         <h4>Vignesh Kumar - Proprietor</h4>
                                     </div>
-                                    <div class="btn-wrapper style2 wow fadeInUp" data-wow-delay=".5s">
+                                    <div class="btn-wrapper style2 wow fadeInUp mt-3" data-wow-delay=".5s">
                                         <a href="about.php" class="theme-btn style3">
                                             READ MORE
                                             <svg xmlns="http://www.w3.org/2000/svg" width="41" height="26" viewBox="0 0 41 26" fill="none">
@@ -229,8 +233,8 @@
                 <div class="row d-flex align-items-end mb-50">
                     <div class="col-xl-6">
                         <div class="section-title text-start">
-                            <div class="subtitle text-start text-white wow fadeInUp" data-wow-delay=".5s"><img class="me-1" src="assets/images/shape/titleShapeWhite1_1.png" alt="icon" /> OUR SERVICES</div>
-                            <h2 class="text-white text-start mt-15 wow fadeInUp" data-wow-delay=".3s">Examine Contemporary Tiles, Stone, & Consulting</h2>
+                            <div class="subtitle text-start text-white wow fadeInUp" data-wow-delay=".5s"><img class="me-1" src="assets/images/shape/titleShapeWhite1_1.png" alt="icon" /> OUR PRODUCTS</div>
+                            <h2 class="text-white text-start mt-15 wow fadeInUp" data-wow-delay=".3s">Marble Decor</h2>
                         </div>
                     </div>
                     <div class="col-xl-6 d-flex mt-4 mt-xl-0 justify-content-start justify-content-xl-end">
@@ -247,7 +251,7 @@
                         <div
                             class="swiper gt-slider"
                             id="serviceSliderOne"
-                            data-slider-options='{"loop": true,"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":1,"centeredSlides":true},"768":{"slidesPerView":1},"1025":{"slidesPerView":3},"1500":{"slidesPerView":4}}}'
+                            data-slider-options='{"loop": true,"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":1,"centeredSlides":true},"768":{"slidesPerView":1},"1025":{"slidesPerView":3},"1500":{"slidesPerView":3}}}'
                         >
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
@@ -256,13 +260,13 @@
                                             <img src="assets/images/icon/serviceCardIcon1_1.svg" alt="icon" />
                                         </div>
                                         <h3>
-                                            <a href="service-details.php"> Tiling & Concrete </a>
+                                            <a href="interior.php"> Interior </a>
                                         </h3>
                                         <div class="thumb">
                                             <img src="assets/images/service/serviceThumb1_1.jpg" alt="thumb" />
                                         </div>
                                         <div class="link-btn style1">
-                                            <a href="service-details.php">
+                                            <a href="interior.php">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="26" height="16" viewBox="0 0 26 16" fill="none">
                                                     <path
                                                         d="M25.7071 8.70711C26.0976 8.31658 26.0976 7.68342 25.7071 7.29289L19.3431 0.928932C18.9526 0.538408 18.3195 0.538408 17.9289 0.928932C17.5384 1.31946 17.5384 1.95262 17.9289 2.34315L23.5858 8L17.9289 13.6569C17.5384 14.0474 17.5384 14.6805 17.9289 15.0711C18.3195 15.4616 18.9526 15.4616 19.3431 15.0711L25.7071 8.70711ZM0 9H25V7H0V9Z"
@@ -282,13 +286,13 @@
                                             <img src="assets/images/icon/serviceCardIcon1_2.svg" alt="icon" />
                                         </div>
                                         <h3>
-                                            <a href="service-details.php"> Oak Flooring </a>
+                                            <a href="tiles.php"> Tiles </a>
                                         </h3>
                                         <div class="thumb">
                                             <img src="assets/images/service/serviceThumb1_2.jpg" alt="thumb" />
                                         </div>
                                         <div class="link-btn style1">
-                                            <a href="service-details.php">
+                                            <a href="tiles.php">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="26" height="16" viewBox="0 0 26 16" fill="none">
                                                     <path
                                                         d="M25.7071 8.70711C26.0976 8.31658 26.0976 7.68342 25.7071 7.29289L19.3431 0.928932C18.9526 0.538408 18.3195 0.538408 17.9289 0.928932C17.5384 1.31946 17.5384 1.95262 17.9289 2.34315L23.5858 8L17.9289 13.6569C17.5384 14.0474 17.5384 14.6805 17.9289 15.0711C18.3195 15.4616 18.9526 15.4616 19.3431 15.0711L25.7071 8.70711ZM0 9H25V7H0V9Z"
@@ -308,39 +312,13 @@
                                             <img src="assets/images/icon/serviceCardIcon1_3.svg" alt="icon" />
                                         </div>
                                         <h3>
-                                            <a href="service-details.php"> Industrial Flooring </a>
+                                            <a href="granite.php"> Granite </a>
                                         </h3>
                                         <div class="thumb">
                                             <img src="assets/images/service/serviceThumb1_3.jpg" alt="thumb" />
                                         </div>
                                         <div class="link-btn style1">
-                                            <a href="service-details.php">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="26" height="16" viewBox="0 0 26 16" fill="none">
-                                                    <path
-                                                        d="M25.7071 8.70711C26.0976 8.31658 26.0976 7.68342 25.7071 7.29289L19.3431 0.928932C18.9526 0.538408 18.3195 0.538408 17.9289 0.928932C17.5384 1.31946 17.5384 1.95262 17.9289 2.34315L23.5858 8L17.9289 13.6569C17.5384 14.0474 17.5384 14.6805 17.9289 15.0711C18.3195 15.4616 18.9526 15.4616 19.3431 15.0711L25.7071 8.70711ZM0 9H25V7H0V9Z"
-                                                        fill="#C7844F"
-                                                    />
-                                                </svg>
-                                            </a>
-                                        </div>
-                                        <div class="shape1"><img src="assets/images/shape/serviceCardShape1_1.png" alt="shape" /></div>
-
-                                        <div class="shape2"><img src="assets/images/shape/serviceCardShape1_2.png" alt="shape" /></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="service-card style1 img-custom-anim-left wow fadeInUp" data-wow-delay=".5s">
-                                        <div class="icon">
-                                            <img src="assets/images/icon/serviceCardIcon1_4.svg" alt="icon" />
-                                        </div>
-                                        <h3>
-                                            <a href="service-details.php"> Vinyl Plank </a>
-                                        </h3>
-                                        <div class="thumb">
-                                            <img src="assets/images/service/serviceThumb1_4.jpg" alt="thumb" />
-                                        </div>
-                                        <div class="link-btn style1">
-                                            <a href="service-details.php">
+                                            <a href="granite.php">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="26" height="16" viewBox="0 0 26 16" fill="none">
                                                     <path
                                                         d="M25.7071 8.70711C26.0976 8.31658 26.0976 7.68342 25.7071 7.29289L19.3431 0.928932C18.9526 0.538408 18.3195 0.538408 17.9289 0.928932C17.5384 1.31946 17.5384 1.95262 17.9289 2.34315L23.5858 8L17.9289 13.6569C17.5384 14.0474 17.5384 14.6805 17.9289 15.0711C18.3195 15.4616 18.9526 15.4616 19.3431 15.0711L25.7071 8.70711ZM0 9H25V7H0V9Z"
@@ -362,15 +340,15 @@
         </section>
 
         <!-- Offer Section    S T A R T -->
-        <section class="offer-section">
+        <!-- <section class="offer-section">
             <div class="offer-container-wrapper style1 section-padding fix">
                 <div class="shape"><img src="assets/images/shape/offerShape1_1.png" alt="shape" /></div>
                 <div class="container">
                     <div class="section-title text-center mb-50 mxw-660 mx-auto">
                         <div class="subtitle text-center wow fadeInUp" data-wow-delay=".5s">
-                            <img class="me-1" src="assets/images/shape/titleShape1_1.png" alt="icon" /> WHAT WE OFFER <img class="ms-1" src="assets/images/shape/titleShape1_2.png" alt="icon" />
+                            <img class="me-1" src="assets/images/shape/titleShape1_1.png" alt="icon" /> OUR SERVICES <img class="ms-1" src="assets/images/shape/titleShape1_2.png" alt="icon" />
                         </div>
-                        <h2 class="text-center mt-15 wow fadeInUp" data-wow-delay=".3s">See Our Best Offer To Build Your Dream Home</h2>
+                        <h2 class="text-center mt-15 wow fadeInUp" data-wow-delay=".3s">Marble Decor</h2>
                     </div>
                     <div class="slider-area offerSliderOne">
                         <div
@@ -697,7 +675,7 @@
                                                 </svg>
                                             </div>
                                             <h3>
-                                                <a href="service-details.php">Modern Tiles</a>
+                                                <a href="service-details.php">Modern Tiless</a>
                                             </h3>
                                             <p class="text">There are many flo variations of passages of atitl Lorem Ipsum available, but thedw,</p>
                                             <ul class="checklist style1">
@@ -1082,7 +1060,7 @@
                                                 </svg>
                                             </div>
                                             <h3>
-                                                <a href="service-details.php">Modern Tiles</a>
+                                                <a href="service-details.php">Modern Tiless</a>
                                             </h3>
                                             <p class="text">There are many flo variations of passages of atitl Lorem Ipsum available, but thedw,</p>
                                             <ul class="checklist style1">
@@ -1458,7 +1436,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- Wcu Section    S T A R T -->
         <section class="wcu-section section-padding fix">
@@ -1482,10 +1460,10 @@
                             <div class="col-xl-6">
                                 <div class="wcu-content">
                                     <div class="section-title text-start mt-70">
-                                        <div class="subtitle text-start wow fadeInUp" data-wow-delay=".5s"><img class="me-1" src="assets/images/shape/titleShape1_1.png" alt="icon" /> RELIABLE</div>
-                                        <h2 class="text-start mt-15 wow fadeInUp" data-wow-delay=".8s">We Offer Dependable Floor Services</h2>
+                                        <!-- <div class="subtitle text-start wow fadeInUp" data-wow-delay=".5s"><img class="me-1" src="assets/images/shape/titleShape1_1.png" alt="icon" /> RELIABLE</div> -->
+                                        <h2 class="text-start mt-15 wow fadeInUp" data-wow-delay=".8s">Marble Decor</h2>
                                         <p class="desc wow fadeInUp" data-wow-delay=".7s">
-                                            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which
+                                        Established in the year 2007 at Coimbatore, Tamil Nadu, We “Marble Decor” are a Proprietorship based firm, engaged as the foremost Wholesale Trader of Interior, Tiles, Granite, etc.
                                         </p>
                                     </div>
                                     <div class="fancy-box style2 wow fadeInUp" data-wow-delay=".5s">
@@ -1495,8 +1473,8 @@
                                             </div>
                                         </div>
                                         <div class="fancy-item">
-                                            <h4>Superior Flooring Solutions</h4>
-                                            <p>There are many variations of passages of floorin Lorem Ipsum available,</p>
+                                            <h4>Premium Flooring Expertise</h4>
+                                            <p>Marble Decor is a trusted wholesale & retail dealer in South India, offering a vast collection of premium flooring solutions like Imported Marble, Granite, Quartz, and more.</p>
                                         </div>
                                     </div>
                                     <div class="fancy-box style2 wow fadeInUp" data-wow-delay=".7s">
@@ -1506,8 +1484,8 @@
                                             </div>
                                         </div>
                                         <div class="fancy-item">
-                                            <h4>Top Flooring Providers</h4>
-                                            <p>There are many variations of passages of floorin Lorem Ipsum available,</p>
+                                            <h4>South India’s Flooring Leader</h4>
+                                            <p>From Coimbatore to across South India, Marble Decor stands as a leading provider of exclusive Imported Marbles and Stones, known for quality, range, and elegance.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1659,6 +1637,122 @@
                 </div>
             </div>
         </div> -->
+
+        <!-- Single shared modal (outside swiper, at bottom of page) -->
+        <div class="video-popup-modal">
+            <div class="video-popup-container">
+                <span class="video-popup-close">&times;</span>
+                <video controls autoplay controlslist="nodownload">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+
+        <style>
+            /* New container styling to prevent overflow */
+            .video-container {
+                width: 100%;
+                overflow: hidden;
+                position: relative;
+            }
+            
+            /* Updated video preview styles */
+            /* .video-preview {
+                position: relative;
+                width: 100%;
+                height: 0;
+                padding-bottom: 56.25%;
+                background-size: cover;
+                background-position: center;
+                cursor: pointer;
+                overflow: hidden;
+            } */
+            
+            /* Modal styles adjusted for full-size display */
+            .video-popup-modal {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.9);
+                z-index: 9999;
+                align-items: center;
+                justify-content: center;
+            }
+            
+            .video-popup-container {
+                position: relative;
+                width: 90%;
+                max-width: 1200px;
+                height: 90vh;
+            }
+            
+            .video-popup-container video {
+                width: 100%;
+                height: 100%;
+                object-fit: contain;
+                display: block;
+            }
+            
+            .video-popup-close {
+                position: absolute;
+                top: -40px;
+                right: 0;
+                color: white;
+                font-size: 30px;
+                cursor: pointer;
+            }
+            
+            /* .play-btn {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                z-index: 1;
+            } */
+        </style>
+
+        <script>
+            // Single event listener for all slides
+            document.addEventListener('DOMContentLoaded', function() {
+                const modal = document.querySelector('.video-popup-modal');
+                const videoElement = document.querySelector('.video-popup-container video');
+                const closeBtn = document.querySelector('.video-popup-close');
+                
+                // Handle all play buttons
+                document.addEventListener('click', function(e) {
+                    if (e.target.closest('.play-btn')) {
+                        e.preventDefault();
+                        const btn = e.target.closest('.play-btn');
+                        const videoSrc = btn.getAttribute('data-video-src');
+                        
+                        videoElement.src = videoSrc;
+                        modal.style.display = 'flex';
+                        document.body.style.overflow = 'hidden';
+                    }
+                });
+                
+                // Close modal
+                closeBtn.addEventListener('click', function() {
+                    modal.style.display = 'none';
+                    document.body.style.overflow = 'auto';
+                    videoElement.pause();
+                    videoElement.currentTime = 0;
+                });
+                
+                // Close when clicking outside
+                modal.addEventListener('click', function(e) {
+                    if (e.target === modal) {
+                        modal.style.display = 'none';
+                        document.body.style.overflow = 'auto';
+                        videoElement.pause();
+                        videoElement.currentTime = 0;
+                    }
+                });
+            });
+        </script>
 
         <?php include "temp/footer.php" ?>
 

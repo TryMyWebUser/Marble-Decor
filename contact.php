@@ -53,7 +53,7 @@
                                 </svg>
                             </div>
                             <h3 class="title">Our Address</h3>
-                            <p class="info">4517 Washington Ave. Manchester, Kentucky 39495</p>
+                            <p class="info">Hopes College, Coimbatore.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6">
@@ -89,7 +89,7 @@
                                     </defs>
                                 </svg>
                             </div>
-                            <h3 class="title">info@exmple.com</h3>
+                            <h3 class="title"><a href="mailto:info@marbledecorindia.com" style="font-size: large; text-transform: lowercase;">info@marbledecorindia.com</a></h3>
                             <p class="info">Email us anytime for any kind ofquety.</p>
                         </div>
                     </div>
@@ -107,15 +107,15 @@
                                     />
                                 </svg>
                             </div>
-                            <h3 class="title">Hot: +208-666-01112</h3>
-                            <p class="info">24/7/365 priority Live Chat and ticketing support.</p>
+                            <h3 class="title"><a href="tel:+919952442369">+91 9952 442 369</a></h3>
+                            <p class="info">24/7 Support.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="map-section">
+        <!-- <div class="map-section">
             <div class="map-container-wrapper style1 pb-262 fix">
                 <div class="container">
                     <div class="row">
@@ -131,12 +131,12 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
-        <div class="contact-form-wrapper style2">
+        <div class="contact-form-wrapper style2 pb-5 mb-5">
             <div class="container">
-                <div class="row gx-60 d-flex justify-content-md-end justify-content-center">
-                    <div class="col-xl-6">
+                <div class="row gx-60"> <!-- d-flex justify-content-md-end justify-content-center"> -->
+                    <div class="col-xl-12">
                         <div class="contact-form style2">
                             <h2>Get in Touch</h2>
                             <form class="row" action="#">
@@ -146,13 +146,16 @@
                                 <div class="col-md-12">
                                     <input type="email" placeholder="Email Address" />
                                 </div>
-                                <div class="col-md-12">
+                                <!-- <div class="col-md-12">
                                     <select name="orderby" class="single-select" aria-label="Shop order">
                                         <option value="menu_order" selected="selected">Select Subject</option>
                                         <option value="complain">Complain</option>
                                         <option value="rating">Gretings</option>
                                         <option value="price">Price</option>
                                     </select>
+                                </div> -->
+                                <div class="col-md-12">
+                                    <input type="text" placeholder="Subject" />
                                 </div>
                                 <div class="col-12">
                                     <textarea id="message" class="form-control" placeholder="Write your message here..." rows="5"></textarea>
