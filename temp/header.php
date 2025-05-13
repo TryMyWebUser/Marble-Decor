@@ -73,9 +73,9 @@
             <div class="offcanvas__content">
                 <div class="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                     <div class="offcanvas__logo">
-                        <a href="index.php">
-                            <!-- <img src="assets/images/logo/logo2.svg" alt="logo-img" /> -->
-                            <h3 style="color: #FFF;">Marble Decor</h3>
+                        <a href="index.php" class="d-flex align-items-center">
+                            <img src="assets/images/logo/logo.png" style="width: 3rem;" alt="logo-img" />
+                            <h3 style="color: #FFF;" class="ms-2">Marble Decor</h3>
                         </a>
                     </div>
                     <div class="offcanvas__close">
@@ -156,9 +156,9 @@
                 <div class="header-main">
                     <div class="header-left">
                         <div class="logo">
-                            <a href="index.php" class="header-logo">
-                                <!-- <img src="assets/images/logo/logo.svg" alt="logo-img" /> -->
-                                <h3 class="fs-4">Marble Decor</h3>
+                            <a href="index.php" class="header-logo d-flex align-items-center">
+                                <img src="assets/images/logo/logo.png" style="width: 3rem;" alt="logo-img" />
+                                <h3 class="fs-4 ms-2">Marble Decor</h3>
                             </a>
                         </div>
                     </div>
@@ -179,9 +179,10 @@
                                                 <i class="fas fa-angle-down"></i>
                                             </a>
                                             <ul class="submenu">
-                                                <li><a href="products.php?data=interior">Interior</a></li>
+                                                <!-- <li><a href="products.php?data=interior">Interior</a></li> -->
                                                 <li><a href="products.php?data=tiles">Tiles</a></li>
-                                                <li><a href="products.php?data=granite">Granite</a></li>
+                                                <li><a href="products.php?data=italian marble">Italian Marble</a></li>
+                                                <!-- <li><a href="products.php?data=granite">Granite</a></li> -->
                                             </ul>
                                         </li>
                                         <li>

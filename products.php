@@ -42,14 +42,11 @@
                     <?php
                         switch ($_GET['data'])
                         {
-                            case 'interior':
-                                include "temp/interior.php";
-                                break;
                             case 'tiles':
                                 include "temp/tiles.php";
                                 break;
-                            case 'granite':
-                                include "temp/granite.php";
+                            case 'italian marble':
+                                include "temp/italian.php";
                                 break;
                             default:
                                 echo "Product Not Found";

@@ -8,9 +8,9 @@
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                     <div class="single-footer-widget">
                         <div class="widget-head">
-                            <a href="index.php">
-                                <!-- <img src="assets/images/logo/logo4.svg" alt="logo-img" /> -->
-                                <h3>Marble Decor</h3>
+                            <a href="index.php" class="d-flex align-items-center">
+                                <img src="assets/images/logo/logo.png" style="width: 3rem;" alt="logo-img" />
+                                <h3 class="ms-2">Marble Decor</h3>
                             </a>
                         </div>
                         <div class="footer-content">
@@ -65,12 +65,12 @@
                             <h3><img class="me-1" src="assets/images/shape/footertitleShape1_1.png" alt="shape" /> Our Products</h3>
                         </div>
                         <ul class="list-area">
-                            <li>
+                            <!-- <li>
                                 <a href="products.php?data=interior">
                                     <i class="fa-solid fa-chevrons-right"></i>
                                     Interior
                                 </a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="products.php?data=tiles">
                                     <i class="fa-solid fa-chevrons-right"></i>
@@ -78,11 +78,17 @@
                                 </a>
                             </li>
                             <li>
+                                <a href="products.php?data=italian marble">
+                                    <i class="fa-solid fa-chevrons-right"></i>
+                                    Italian Marble
+                                </a>
+                            </li>
+                            <!-- <li>
                                 <a href="products.php?data=granite">
                                     <i class="fa-solid fa-chevrons-right"></i>
                                     Granite
                                 </a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
