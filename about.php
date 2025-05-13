@@ -61,21 +61,21 @@
                                         <p class="desc wow fadeInUp" data-wow-delay=".7s">
                                             Marble Decor is one of the most reputed wholesale & retail dealers of premium flooring products in South India. We are one of the very few dealers in Coimbatore who deals with the widest range of super premium flooring products like Imported Marble, Imported Granite, Indian Marble, Indian Granite, Sandstone, Quartz, Natural Stone, Premium Thin Tiless, Engineered Marble and etc.,
                                             <br><br>We deal with the Latest and Best Quality Imported Marbles in Coimbatore. We have established ourselves as the leading Wholesaler and Retailer of wide range of Exquisite, Exotic and Exclusive Imported Marble in Coimbatore as well as the whole of South India.
-                                        </p><br>
-                                        <h4><b>Vignesh Kumar - Proprietor</b></h4>
-                                    </div>
-                                    <div class="btn-wrapper style2 wow fadeInUp mt-3" data-wow-delay=".5s">
-                                        <a href="contact.php" class="theme-btn style3">
-                                            Contact Now
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="41" height="26" viewBox="0 0 41 26" fill="none">
-                                                <rect width="1" height="26" fill="#2B1E16"></rect>
-                                                <path
-                                                    d="M40.7071 13.7071C41.0976 13.3166 41.0976 12.6834 40.7071 12.2929L34.3431 5.92893C33.9526 5.53841 33.3195 5.53841 32.9289 5.92893C32.5384 6.31946 32.5384 6.95262 32.9289 7.34315L38.5858 13L32.9289 18.6569C32.5384 19.0474 32.5384 19.6805 32.9289 20.0711C33.3195 20.4616 33.9526 20.4616 34.3431 20.0711L40.7071 13.7071ZM15 14H40V12H15V14Z"
-                                                    fill="#2B1E16"
-                                                ></path>
-                                            </svg>
-                                        </a>
-                                    </div>
+                                        </p>
+                                    </div><br>
+                                    <h4><b>Vignesh Kumar - Proprietor</b></h4>
+                                    <!--<div class="btn-wrapper style2 wow fadeInUp mt-3" data-wow-delay=".5s">-->
+                                    <!--    <a href="contact.php" class="theme-btn style3">-->
+                                    <!--        Contact Now-->
+                                    <!--        <svg xmlns="http://www.w3.org/2000/svg" width="41" height="26" viewBox="0 0 41 26" fill="none">-->
+                                    <!--            <rect width="1" height="26" fill="#2B1E16"></rect>-->
+                                    <!--            <path-->
+                                    <!--                d="M40.7071 13.7071C41.0976 13.3166 41.0976 12.6834 40.7071 12.2929L34.3431 5.92893C33.9526 5.53841 33.3195 5.53841 32.9289 5.92893C32.5384 6.31946 32.5384 6.95262 32.9289 7.34315L38.5858 13L32.9289 18.6569C32.5384 19.0474 32.5384 19.6805 32.9289 20.0711C33.3195 20.4616 33.9526 20.4616 34.3431 20.0711L40.7071 13.7071ZM15 14H40V12H15V14Z"-->
+                                    <!--                fill="#2B1E16"-->
+                                    <!--            ></path>-->
+                                    <!--        </svg>-->
+                                    <!--    </a>-->
+                                    <!--</div>-->
                                 </div>
                             </div>
                         </div>

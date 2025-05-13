@@ -89,8 +89,8 @@
                                     </defs>
                                 </svg>
                             </div>
-                            <h3 class="title"><a href="mailto:info@marbledecorindia.com" style="font-size: large; text-transform: lowercase;">info@marbledecorindia.com</a></h3>
-                            <p class="info">Email us anytime for any kind ofquety.</p>
+                            <h3 class="title">Mail Address</h3>
+                            <p class="info"><a href="mailto:info@marbledecorindia.com">info@marbledecorindia.com</a></p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6">
@@ -107,8 +107,8 @@
                                     />
                                 </svg>
                             </div>
-                            <h3 class="title"><a href="tel:+919952442369">+91 9952 442 369</a></h3>
-                            <p class="info">24/7 Support.</p>
+                            <h3 class="title">Contact Number</h3>
+                            <p class="info"><a href="tel:+919952442369">+91 9952 442 369</a></p>
                         </div>
                     </div>
                 </div>

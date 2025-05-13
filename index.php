@@ -1441,7 +1441,7 @@
         <!-- Wcu Section    S T A R T -->
         <section class="wcu-section section-padding fix">
             <div class="wcu-container-wrapper style1">
-                <div class="shape"><img src="assets/images/shape/wcuShape1_1.png" alt="shape" /></div>
+                <div class="shape"><img src="assets/images/shape/offerShape1_1.png" alt="shape" /></div>
                 <div class="container">
                     <div class="wcu-wrapper style1">
                         <div class="row gy-5 gx-60">
